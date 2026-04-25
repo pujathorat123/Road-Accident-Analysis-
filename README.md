@@ -19,10 +19,13 @@ This analysis helps in understanding accident patterns, casualty trends, vehicle
 - Day vs Night accidents
 
 ## Dashboard Preview
-Textbox Screenshot
+Textbox 
 <img width="623" height="256" alt="image" src="https://github.com/user-attachments/assets/32a996de-6f82-403b-8c03-bf03346bd57c" />
 
-Dashboard Screenshot
+
+
+
+Dashboard 
 <img width="566" height="255" alt="image" src="https://github.com/user-attachments/assets/5c112d72-c924-4dd5-956b-a4cef4de8b5f" />
 
 
